@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0",
+    "selenium-webdriver": "^4.27.0"
+  },
+  "name": "wdvwai-seleniumonnextjs",
+  "version": "1.0.0",
+  "main": "index.test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
